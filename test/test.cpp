@@ -9,7 +9,7 @@ using namespace std;
 
 void test() {
 	struct Option {
-			double toBe;
+			long toBe;
 			long startDeposit;
 			double annualRate;
 			int annualAmount;
